@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "product": "sever-local-center",
+  "version": "0.3.1",
+  "channel": "pilot",
+  "publishedAt": "2026-08-20T15:38:22.612Z",
+  "image": "ghcr.io/sergeevich01/sever-local-center@sha256:257de4c4422a25049680e4ee51a6e62823bb63c0299a16264bf14b4c506a501e",
+  "minimumUpdaterVersion": "1.0.0",
+  "automatic": true,
+  "releaseNotes": "Первый подписанный пилотный выпуск автоматического обновления Единого центра."
+}
